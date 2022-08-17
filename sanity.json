@@ -1,11 +1,11 @@
 {
   "root": true,
+  "api": {
+    "projectId": "awdlort9",
+    "dataset": "production"
+  },
   "project": {
     "name": "virna-db"
-  },
-  "api": {
-    "projectId": "3fzfvu85",
-    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
